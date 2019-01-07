@@ -1,1 +1,2 @@
-# CS361Project4
+CS 361, Operating Systems, UIC
+# Project4
